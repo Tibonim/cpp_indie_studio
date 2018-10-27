@@ -1,0 +1,416 @@
+{
+    "Button" :  {
+	"playerNbrChoice" : [
+	    {
+		"ax" : 0.43,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.3,
+		"sax" : 0.3,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "onePlayer",
+		"text" : "ONE PLAYER"
+	    },
+	    {
+		"ax" : 0.43,
+		"ay" : 0.2,
+		"bx" : 0.47,
+		"by" : 0.3,
+		"sax" : 0.3,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "twoPlayers",
+		"text" : "TWO PLAYERS"
+	    }
+	],
+	"MainPage" : [
+	    {
+		"ax" : 0.35,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.6,
+		"sax" : 0.25,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "playButton",
+		"text" : "PLAY"
+	    },
+	    {
+		"ax" : 0.35,
+		"ay" : 0.2,
+		"bx" : 0.47,
+		"by" : 0.6,
+		"sax" : 0.25,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "continueButton",
+		"text" : "CONTINUE"
+	    },
+	    {
+		"ax" : 0.85,
+		"ay" : 1,
+		"bx" : 0.05,
+		"by" : 0.5,
+		"sax" : 0.1,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 30,
+		"name" : "soundDown",
+		"text" : "SOUND"
+	    },
+	    {
+		"ax" : 0.37,
+		"ay" : 0.2,
+		"bx" : 0.54,
+		"by" : 0.55,
+		"sax" :0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "settingButton",
+		"text" : "SETTINGS"
+	    },
+	    {
+		"ax" : 0.37,
+		"ay" : 0.2,
+		"bx" : 0.61,
+		"by" : 0.65,
+		"sax" :0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "quitButton",
+		"text" : "QUIT"
+	    }
+	],
+	"SettingPage" : [
+	    {
+		"ax" : 0.48,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.6,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "commandButton",
+		"text" : "COMMANDS"
+	    },
+	    {
+		"ax" : 0.48,
+		"ay" : 0.2,
+		"bx" : 0.62,
+		"by" : 0.6,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "creditButton",
+		"text" : "CREDIT"
+	    },
+	    {
+		"ax" : 0,
+		"ay" : 0.2,
+		"bx" : 0.0,
+		"by" : 0.6,
+		"sax" : 0.1,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 30,
+		"name" : "prevButton",
+		"text" : "PREV."
+	    }
+	],
+	"CommandPage" : [
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player1Mu",
+		"text" : "Player1 : move up"
+	    },
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.50,
+		"by" : 0.5,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player1Md",
+		"text" : "Player1 : move down"
+	    },
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.60,
+		"by" : 0.5,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player1Lft",
+		"text" : "Player1 : move left"
+	    },
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.70,
+		"by" : 0.5,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player1Rght",
+		"text" : "Player1 : move right"
+	    },
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.80,
+		"by" : 0.5,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player1Attk",
+		"text" : "Player1 : Attack"
+	    },
+	    {
+		"ax" : 0.70,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player2MoveUp",
+		"text" : "Player2 : move up"
+	    },
+	    {
+		"ax" : 0.70,
+		"ay" : 0.2,
+		"bx" : 0.50,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player2MoveDown",
+		"text" : "Player2 : move down"
+	    },
+	    {
+		"ax" : 0.70,
+		"ay" : 0.2,
+		"bx" : 0.60,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player2MoveLeft",
+		"text" : "Player2 : move left"
+	    },
+	    {
+		"ax" : 0.70,
+		"ay" : 0.2,
+		"bx" : 0.70,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player2MoveRight",
+		"text" : "Player2 : move right"
+	    },
+	    {
+		"ax" : 0.70,
+		"ay" : 0.2,
+		"bx" : 0.80,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "player2Attack",
+		"text" : "Player2 : Attack"
+	    }
+	],
+	"KeyPadButtonPage1" : [
+	    {
+		"ax" : 0.30,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "MoveUp",
+		"text" : "up1"
+	    },
+	    {
+		"ax" : 0.30,
+		"ay" : 0.2,
+		"bx" : 0.50,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "MoveDown",
+		"text" : "down1"
+	    },
+	    {
+		"ax" : 0.30,
+		"ay" : 0.2,
+		"bx" : 0.60,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "MoveRight",
+		"text" : "right1"
+	    },
+	    {
+		"ax" : 0.30,
+		"ay" : 0.2,
+		"bx" : 0.70,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "MoveLeft",
+		"text" : "left1"
+	    },
+	    {
+		"ax" : 0.30,
+		"ay" : 0.2,
+		"bx" : 0.80,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "Attack",
+		"text" : "attack1"
+	    }
+	],
+	"Player2" : [
+	    {
+		"ax" : 0.60,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "MoveUp",
+		"text" : "up2"
+	    },
+	    {
+		"ax" : 0.60,
+		"ay" : 0.2,
+		"bx" : 0.50,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "MoveDown",
+		"text" : "down2"
+	    },
+	    {
+		"ax" : 0.60,
+		"ay" : 0.2,
+		"bx" : 0.60,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "ModeRight",
+		"text" : "right2"
+	    },
+	    {
+		"ax" : 0.60,
+		"ay" : 0.2,
+		"bx" : 0.70,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "MoveLeft2",
+		"text" : "left2"
+	    },
+	    {
+		"ax" : 0.60,
+		"ay" : 0.2,
+		"bx" : 0.80,
+		"by" : 0.3,
+		"sax" : 0.09,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "Attack2",
+		"text" : "attack2"
+	    }
+	],
+	"ButtonConfigurationPage" : [
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.30,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "press",
+		"text" : "Press key !"
+	    },
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.10,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 60,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "Error",
+		"text" : "Error change key"
+	    }
+	],
+	"ResetHard" : [
+	    {
+		"ax" : 0.70,
+		"ay" : 0.2,
+		"bx" : 0.30,
+		"by" : 0.3,
+		"sax" : 0.2,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "reset",
+		"text" : "Reset default"
+	    }
+	]
+    }
+}

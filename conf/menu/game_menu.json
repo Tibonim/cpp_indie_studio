@@ -1,0 +1,210 @@
+{
+    "Button" : {
+	"MainPage" : [
+	    {
+		"ax" : 0.19,
+		"ay" : 0.2,
+		"bx" : 0,
+		"by" : 0.6,
+		"sax" : 0.1,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 30,
+		"name" : "test button",
+		"text" : "Pause"
+	    },
+	    {
+		"ax" : 0.29,
+		"ay" : 0.2,
+		"bx" : 0,
+		"by" : 0.6,
+		"sax" : 0.1,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 30,
+		"name" : "Sound",
+		"text" : "Sound"
+	    },
+	    {
+		"ax" : 0.39,
+		"ay" : 0.2,
+		"bx" : 0,
+		"by" : 0.6,
+		"sax" : 0.1,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 30,
+		"name" : "Save",
+		"text" : "Save"
+	    },
+	    {
+		"ax" : 0.49,
+		"ay" : 0.2,
+		"bx" : 0,
+		"by" : 0.6,
+		"sax" : 0.1,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 30,
+		"name" : "Quit",
+		"text" : "Quit"
+	    }
+	],
+	"SoundPage" : [
+	    {
+		"ax" : 0.64,
+		"ay" : 0.2,
+		"bx" : 0,
+		"by" : 0.6,
+		"sax" : 0.1,
+		"say" : 30,
+		"sbx" : 0,
+		"sby" : 30,
+		"name" : "SoundProgressBar",
+		"text" : "SoundProgressBar"
+	    }
+	],
+	"PausePage" : [
+	    {
+		"ax" : 0.40,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "pause",
+		"text" : "Restart game"
+	    }
+	],
+	"LivePage" : [
+	    {
+		"ax" : 0,
+		"ay" : 0.2,
+		"bx" : 0.97,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 20,
+		"sbx" : 0,
+		"sby" : 20,
+		"name" : "livePlayer1",
+		"text" : "livePlayer1"
+	    },
+	    {
+		"ax" : 0.70,
+		"ay" : 0.2,
+		"bx" : 0.97,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 20,
+		"sbx" : 0,
+		"sby" : 20,
+		"name" : "livePlayer2",
+		"text" : "livePlayer2"
+	    }
+	],
+	"InventoryPage" : [
+	    {
+		"ax" : 0.20,
+		"ay" : 0.2,
+		"bx" : 0.96,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "InventoryP1",
+		"text" : "Inventaire 1"
+	    },
+	    {
+		"ax" : 0.50,
+		"ay" : 0.2,
+		"bx" : 0.96,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "InventoryP2",
+		"text" : "Inventaire 2"
+	    }
+	],
+	"InventoryBoxP1" : [
+	    {
+		"ax" : 0.20,
+		"ay" : 0.2,
+		"bx" : 0.93,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "Potion",
+		"text" : "Potion x"
+	    },
+	    {
+		"ax" : 0.20,
+		"ay" : 0.2,
+		"bx" : 0.90,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "Attk",
+		"text" : "Attk x"
+	    },
+	    {
+		"ax" : 0.20,
+		"ay" : 0.2,
+		"bx" : 0.87,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "Vit",
+		"text" : "Vit x"
+	    }
+	],
+	"InventoryBoxP2" : [
+	    {
+		"ax" : 0.50,
+		"ay" : 0.2,
+		"bx" : 0.93,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "Potion2",
+		"text" : "Potion x"
+	    },
+	    {
+		"ax" : 0.50,
+		"ay" : 0.2,
+		"bx" : 0.90,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "Attk2",
+		"text" : "Attk x"
+	    },
+	    {
+		"ax" : 0.50,
+		"ay" : 0.2,
+		"bx" : 0.87,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 35,
+		"sbx" : 0,
+		"sby" : 35,
+		"name" : "Vit2",
+		"text" : "Vit x"
+	    }
+	]
+    }
+}

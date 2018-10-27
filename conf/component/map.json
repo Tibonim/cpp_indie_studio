@@ -1,0 +1,29 @@
+{
+    "entitylist" : [4],
+    "Component" : {
+	"graphicComponent" : [
+            {
+		"animationName" : "",
+		"id" : 4,
+		"meshName" : "Wall.mesh",
+		"textureName" : ""
+            }
+	],
+	"positionComponent" : [
+            {
+		"id" : 4,
+		"x" : 250,
+		"y" : 0,
+		"z" : -550
+	    }
+	],
+	"directionComponent" : [
+	    {
+		"id" : 4,
+		"x" : 0,
+		"y" : 0,
+		"z" : 0
+	    }
+	]
+   }
+}

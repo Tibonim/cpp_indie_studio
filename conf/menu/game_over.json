@@ -1,0 +1,30 @@
+{
+    "Button" : {
+	"GameOverButton" : [
+	    {
+		"ax" : 0.37,
+		"ay" : 0.2,
+		"bx" : 0.40,
+		"by" : 0.3,
+		"sax" : 0.3,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "Quit",
+		"text" : "QUIT GAME"
+	    },
+	    {
+		"ax" : 0.37,
+		"ay" : 0.2,
+		"bx" : 0.47,
+		"by" : 0.3,
+		"sax" : 0.3,
+		"say" : 50,
+		"sbx" : 0,
+		"sby" : 50,
+		"name" : "Restart",
+		"text" : "RESTART GAME"
+	    }
+	]
+    }
+}

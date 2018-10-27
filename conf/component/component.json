@@ -1,0 +1,77 @@
+{
+    "entitylist" : [ 1, 2 ],
+    "Component" : {
+	"directionComponent" : [
+            {
+		"id" : 1,
+		"x" : 0,
+		"y" : 0,
+		"z" : 0
+            },
+            {
+		"id" : 2,
+		"x" : 100,
+		"y" : 0,
+		"z" : 0
+            }
+	],
+	"graphicComponent" : [
+            {
+		"animationName" : "Shoot",
+		"id" : 1,
+		"meshName" : "robot.mesh",
+		"textureName" : ""
+            },
+            {
+		"animationName" : "",
+		"id" : 2,
+		"meshName" : "robot.mesh",
+		"textureName" : ""
+            }
+	],
+	"healthComponent" : [
+            {
+		"id" : 1,
+		"live" : 100
+	    },
+            {
+		"id" : 2,
+		"live" : 100
+	    }
+	],
+	"positionComponent" : [
+            {
+		"id" : 1,
+		"x" : 500,
+		"y" : 0,
+		"z" : 500
+	    },
+            {
+		"id" : 2,
+		"x" : 100,
+		"y" : 0,
+		"z" : 0
+	    }
+	],
+	"strengthComponent" : [
+            {
+		"id" : 1,
+		"strength" : 1
+            },
+            {
+		"id" : 2,
+		"strength" : 1
+            }
+	],
+	"velocityComponent" : [
+            {
+		"id" : 1,
+		"velocity" : 0
+            },
+            {
+		"id" : 2,
+		"velocity" : 0
+            }
+	]
+    }
+}

@@ -1,0 +1,41 @@
+{
+   "Component" : {
+      "directionComponent" : [
+         {
+            "id" : 1,
+            "x" : 0,
+            "y" : 0,
+            "z" : 0
+         }
+      ],
+      "graphicComponent" : [
+         {
+            "animationName" : "",
+            "id" : 1,
+            "meshName" : "ninja.mesh",
+            "textureName" : ""
+         }
+      ],
+      "positionComponent" : [
+         {
+            "id" : 1,
+            "x" : 0,
+            "y" : 0,
+            "z" : 0
+         }
+      ],
+      "strengthComponent" : [
+         {
+            "id" : 1,
+            "strength" : 1
+         }
+      ],
+      "velocityComponent" : [
+         {
+            "id" : 1,
+            "velocity" : 0
+         }
+      ]
+   },
+   "entitylist" : [ 1, 2 ]
+}

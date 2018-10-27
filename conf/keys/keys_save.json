@@ -1,0 +1,79 @@
+{
+   "KeyValue" : [
+      {
+         "action" : [
+            {
+               "editable" : false,
+               "name" : "validate",
+               "value" : 13
+            },
+            {
+               "editable" : false,
+               "name" : "escape",
+               "value" : 27
+            }
+         ],
+         "type" : "generale"
+      },
+      {
+         "action" : [
+            {
+               "editable" : true,
+               "name" : "attack",
+               "value" : 33
+            },
+            {
+               "editable" : true,
+               "name" : "moveLeft",
+               "value" : 37
+            },
+            {
+               "editable" : true,
+               "name" : "moveRight",
+               "value" : 39
+            },
+            {
+               "editable" : true,
+               "name" : "moveDown",
+               "value" : 40
+            },
+            {
+               "editable" : true,
+               "name" : "moveUp",
+               "value" : 65
+            }
+         ],
+         "type" : "player1"
+      },
+      {
+         "action" : [
+            {
+               "editable" : true,
+               "name" : "attack",
+               "value" : 97
+            },
+            {
+               "editable" : true,
+               "name" : "moveRight",
+               "value" : 100
+            },
+            {
+               "editable" : true,
+               "name" : "moveLeft",
+               "value" : 113
+            },
+            {
+               "editable" : true,
+               "name" : "moveDown",
+               "value" : 115
+            },
+            {
+               "editable" : true,
+               "name" : "moveUp",
+               "value" : 122
+            }
+         ],
+         "type" : "player2"
+      }
+   ]
+}

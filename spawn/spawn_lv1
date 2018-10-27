@@ -1,0 +1,16 @@
+#------------------------------------------#
+#-----------SPAWN MOB FOR LEVEL 1----------#
+#------------------------------------------#
+############################################
+#posX	posY	meshName	script     #
+############################################
+-400	200	MyOrc		./scriptLua/IaScript
+200	300	MyOrc		./scriptLua/IaScript1
+200	300	MyOrc		./scriptLua/IaScript1
+300	800	MyOrc		./scriptLua/IaScript2
+100	900	MyOrc		./scriptLua/IaScript3
+400	100	MyOrc		./scriptLua/IaScript2
+500	200	MyOrc		./scriptLua/IaScript3
+300	450	MyOrc		./scriptLua/IaScript
+400	500	MyOrc		./scriptLua/IaScript2
+800	400	MyOrc		./scriptLua/IaScript

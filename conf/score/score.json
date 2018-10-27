@@ -1,0 +1,18 @@
+{
+    "Button" : {
+	"ScorePage" : [
+	    {
+		"ax" : 0,
+		"ay" : 0.2,
+		"bx" : 0,
+		"by" : 0.6,
+		"sax" : 0.14,
+		"say" : 60,
+		"sbx" : 0,
+		"sby" : 60,
+		"name" : "score",
+		"text" : "Score: "
+	    }
+	]
+    }
+}
